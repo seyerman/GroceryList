@@ -1,0 +1,11 @@
+C:\Users\seyer\source\repos\GroceryList\GroceryList\bin\Debug\GroceryList.exe.config
+C:\Users\seyer\source\repos\GroceryList\GroceryList\bin\Debug\GroceryList.exe
+C:\Users\seyer\source\repos\GroceryList\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\seyer\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.csprojAssemblyReference.cache
+C:\Users\seyer\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.Properties.Resources.resources
+C:\Users\seyer\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.csproj.GenerateResource.cache
+C:\Users\seyer\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\seyer\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.exe
+C:\Users\seyer\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.pdb
+C:\Users\seyer\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.Gui.AddItem.resources
+C:\Users\seyer\source\repos\GroceryList\GroceryList\obj\Debug\GroceryList.Gui.GroceryListWindow.resources
